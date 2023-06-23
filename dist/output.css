@@ -700,6 +700,18 @@ video {
   padding-top: 2.25rem;
 }
 
+.pl-9{
+  padding-left: 2.25rem;
+}
+
+.pl-10{
+  padding-left: 2.5rem;
+}
+
+.pl-20{
+  padding-left: 5rem;
+}
+
 .text-center{
   text-align: center;
 }
